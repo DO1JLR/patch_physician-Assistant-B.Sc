@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497474"
-     inkscape:cx="262.17807"
-     inkscape:cy="1222.2005"
+     inkscape:zoom="0.35"
+     inkscape:cx="-25.273849"
+     inkscape:cy="845.13608"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -100,7 +100,7 @@
        cy="271.4325"
        r="206.375" />
     <circle
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.96875;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3.96875;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle855"
        cx="268.28442"
        cy="271.4325"
@@ -115,7 +115,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.0944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       id="text861"><textPath
+       id="text861"
+       x="9.0771284"><textPath
          xlink:href="#circle857"
          id="textPath863"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.0944px;font-family:'IBM Plex Sans Thai Looped';-inkscape-font-specification:'IBM Plex Sans Thai Looped Semi-Bold'">Phy­si­ci­an As­sis­tant B.Sc.</textPath></text>
@@ -134,5 +135,56 @@
          id="textPath22"><tspan
            id="tspan18"
            style="stroke-width:0.264583;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.0944px;line-height:1.25;font-family:'IBM Plex Sans Thai Looped';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;-inkscape-font-specification:'IBM Plex Sans Thai Looped Semi-Bold';">Arztassistent*in</tspan></textPath></text>
+    <g
+       id="g49"
+       transform="matrix(0.90787174,0,0,0.90787174,21.222327,31.89689)">
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="4.11163"
+         d="m 265.1663,94.912697 c -9.94358,3.273653 -20.67201,12.529333 -20.91788,28.010393 -0.20637,12.94831 12.77582,27.67637 24.28424,36.20798 -0.9029,-18.94716 0.17591,-15.06808 0.48827,-22.07427 -4.23661,-3.6684 -7.0132,-7.19533 -7.34951,-10.89581 -0.37828,-4.14945 1.78379,-8.80175 5.88474,-10.22764 0.67021,-0.2334 1.38645,-0.36593 2.1586,-0.41115 4.73546,0.86083 8.03156,5.21757 11.28125,8.4288 2.02688,1.57028 4.21521,2.96307 6.52719,3.77755 1.7409,0.61346 3.55884,0.92739 5.42222,0.69386 3.52121,-0.44077 3.64907,-0.6585 3.64907,-6.14174 3.5475,0.32236 6.33353,3.73313 6.68138,-5.16522 0.19642,-5.03262 -3.79996,-14.64992 -16.2409,-20.378235 -6.94442,-3.5015 -14.46801,-3.47704 -21.86867,-1.824518 z m 19.96704,53.939323 c -0.13143,0.94402 -0.17218,20.56696 0.0771,22.17705 5.12721,4.90681 9.35396,11.65561 9.35396,21.58601 0,12.90968 -5.27974,19.53473 -11.97511,25.74905 -5.63971,4.88673 -11.00101,10.05629 -16.13808,15.46995 -10.74945,11.48707 -19.75285,23.81308 -19.29893,39.08612 0.44238,14.87913 11.11164,21.9649 22.15134,28.03613 -0.40785,-8.97814 -0.45823,-9.61133 -0.74523,-18.81069 -4.26702,-3.94716 -6.67315,-7.64186 -6.57857,-12.12927 0.11586,-5.43968 2.5718,-10.9768 6.11601,-16.29231 4.12539,-6.0008 9.25621,-11.1923 14.3136,-16.39509 2.70424,-2.60181 5.49058,-5.11648 8.27463,-7.63219 10.00026,-9.03158 20.05794,-23.53102 20.32684,-40.62795 0.30987,-19.81557 -13.62325,-31.61285 -25.87753,-40.21681 z m -1.72173,144.83187 c 0.078,1.92836 0.54805,9.52437 0.77094,15.95824 19.02541,12.90928 7.3786,29.95763 -3.75188,42.70943 -2.50072,2.84646 -5.56478,5.11508 -8.58299,7.37525 -9.74636,7.28718 -21.08593,11.73974 -32.76451,14.82751 14.44908,-1.84446 24.97832,-5.81257 32.81589,-10.02208 3.13535,-1.34389 5.80431,-3.31912 8.53161,-5.29369 3.90112,-2.76631 6.77782,-5.29557 8.96849,-6.96406 6.77348,-5.16173 17.67021,-16.91039 16.13809,-27.72776 -2.23216,-15.86566 -11.84553,-23.16216 -22.12564,-30.86284 z"
+         id="path2" />
+      <path
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="4.11163"
+         d="m 285.13026,148.84482 c -0.13143,0.94402 -0.17435,20.57126 0.0749,22.18137 0.24926,1.61013 0.48354,3.22186 0.47204,4.80732 -0.0156,2.50725 -1.28447,5.38703 -1.46459,7.74217 -0.61426,8.06455 2.52289,3.56644 2.93324,8.06455 0.32236,3.54914 -2.45957,5.53177 -2.24412,8.06453 0.63074,7.41902 -1.22691,12.28306 -2.27208,18.38717 l -16.13562,15.21054 c 0.9728,-7.79235 -1.46705,-12.4977 -3.54014,-16.18006 -2.90526,-5.16007 -1.64876,-9.08258 -3.5508,-13.87015 -2.10103,-5.28508 -3.87067,-8.38771 3.54914,-10.64498 3.21038,1.07394 2.76386,5.23657 5.80646,5.80642 3.85918,-0.96456 0.68416,-20.33115 -0.2188,-39.27831 -0.90291,-18.94719 0.16845,-15.07649 0.48106,-22.0827 0.31248,-7.0062 -0.46873,-14.14399 -1.45551,-21.10908 l -8.5e-4,0.003 c 7.78321,-2.27146 12.50174,10.74605 19.97098,11.79459 -0.1333,6.10824 -0.8511,11.91877 -2.00401,18.27124 -0.17031,0.93742 -0.26978,1.88805 -0.40127,2.83207 z m -2.61807,88.38137 c -0.0363,0.0347 -0.0664,0.068 -0.1029,0.10289 -2.98657,2.85888 -10.6967,11.00079 -14.2622,16.31802 0.0526,9.41897 0.18089,21.1135 0.41117,28.49866 0.28687,9.19935 0.33737,9.83255 0.74523,18.81068 0.40787,8.97813 0.88521,18.04528 1.38766,27.47075 0.56577,10.6154 1.02402,21.07661 1.15642,31.29974 2.98664,-2.23307 5.9994,-4.41527 8.58298,-7.37524 0.19892,-8.19035 1.16668,-16.09059 2.85246,-24.59262 1.06655,-5.37143 1.12226,-11.68296 0.89942,-18.11683 -0.22284,-6.43387 -0.69283,-14.02987 -0.77093,-15.95823 -0.078,-1.92835 -0.1284,-3.81848 -0.1284,-5.6021 0,-7.37624 0.0323,-11.63404 2.41555,-17.75704 1.4062,-3.61414 7.57031,-11.59869 -0.20543,-13.13151 -0.87903,1.46045 -2.42439,2.12325 -3.21218,3.59767 -0.99142,-7.83018 -0.13762,-15.70037 0.23125,-23.56473 z m -2.08152,122.01236 c -3.90111,2.76631 -0.69402,1.08423 -8.53161,5.29369 0.0156,11.38265 -0.46873,22.41184 -1.85023,32.9187 11.29053,-10.64502 11.92822,-13.87345 10.63884,-32.58462 -0.13244,-1.91271 -0.20451,-3.78084 -0.25704,-5.62777 z M 287.0405,96.732491 c 0.72317,-5.511473 4.54778,-11.789317 3.00726,-17.351047 -2.8806,-4.038438 -7.12544,0.777093 -10.00029,0 -5.6691,-1.530347 -4.19302,-5.160924 -10.32265,-6.128784 -5.29823,-0.8363 -6.77347,-1.291063 -5.48405,10.967345 0.38648,3.676606 0.65457,7.196164 0.92428,10.686102 3.10921,-1.023804 6.14442,-1.477728 8.75364,-1.330533 5.17573,0.291842 9.48962,1.484317 13.12181,3.156917 z"
+         id="path4" />
+      <ellipse
+         cx="288.75668"
+         cy="107.76152"
+         rx="3.3879757"
+         ry="3.5771103"
+         id="ellipse6"
+         style="stroke-width:0.822323" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:141.111px;line-height:1.25;font-family:'IBM Plex Sans Thai Looped';-inkscape-font-specification:'IBM Plex Sans Thai Looped Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;"
+       x="139.50334"
+       y="264.18225"
+       id="text53"
+       transform="translate(-32.117044,23.866693)"><tspan
+         sodipodi:role="line"
+         id="tspan51"
+         x="139.50334"
+         y="264.18225"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:141.111px;line-height:1.25;font-family:'IBM Plex Sans Thai Looped';-inkscape-font-specification:'IBM Plex Sans Thai Looped Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;">P    A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:28.2222px;line-height:1.25;font-family:'IBM Plex Sans Thai Looped';-inkscape-font-specification:'IBM Plex Sans Thai Looped Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       x="70.747665"
+       y="573.02765"
+       id="text80"
+       transform="translate(80.185112,-149.54265)"><tspan
+         sodipodi:role="line"
+         id="tspan78"
+         x="70.747665"
+         y="573.02765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;line-height:1.25;font-family:'IBM Plex Sans Thai Looped';-inkscape-font-specification:'IBM Plex Sans Thai Looped';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Kohorte SoSe2020</tspan></text>
   </g>
 </svg>
