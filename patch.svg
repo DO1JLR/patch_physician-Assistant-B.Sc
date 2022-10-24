@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
@@ -23,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1120.3549"
-     inkscape:cy="975.54461"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="262.17807"
+     inkscape:cy="1222.2005"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -35,7 +36,19 @@
      inkscape:window-height="1392"
      inkscape:window-x="0"
      inkscape:window-y="46"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     inkscape:snap-text-baseline="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-18.559931,100.54311"
+       orientation="0,-1"
+       id="guide14" />
+    <sodipodi:guide
+       position="499.79401,323.77474"
+       orientation="0,-1"
+       id="guide44" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -44,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>L3D &lt;l3d@c3woc.de&gt;</dc:title>
@@ -73,5 +86,53 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke-width:3.96875;stroke:#ff0000;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path28"
+       cx="268.28442"
+       cy="271.4325"
+       r="264.58334" />
+    <circle
+       style="fill:#ffff00;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle30"
+       cx="268.28442"
+       cy="271.4325"
+       r="206.375" />
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.96875;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle855"
+       cx="268.28442"
+       cy="271.4325"
+       r="206.375" />
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.266429"
+       id="circle857"
+       cx="-324.39655"
+       cy="-200.33812"
+       r="218.47232"
+       transform="rotate(-166.30756)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.0944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="text861"><textPath
+         xlink:href="#circle857"
+         id="textPath863"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.0944px;font-family:'IBM Plex Sans Thai Looped';-inkscape-font-specification:'IBM Plex Sans Thai Looped Semi-Bold'">Phy­si­ci­an As­sis­tant B.Sc.</textPath></text>
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:#ff2a2a;stroke-width:0.313902"
+       id="circle16"
+       cx="27.235069"
+       cy="380.29822"
+       r="257.40009"
+       transform="matrix(-0.65992958,0.75132746,0.75132746,0.65992958,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:600;font-size:50.0944px;line-height:1.25;font-family:'IBM Plex Sans Thai Looped';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;font-variant:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;-inkscape-font-specification:'IBM Plex Sans Thai Looped Semi-Bold';"
+       id="text20"><textPath
+         xlink:href="#circle16"
+         id="textPath22"><tspan
+           id="tspan18"
+           style="stroke-width:0.264583;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50.0944px;line-height:1.25;font-family:'IBM Plex Sans Thai Looped';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;-inkscape-font-specification:'IBM Plex Sans Thai Looped Semi-Bold';">Arztassistent*in</tspan></textPath></text>
+  </g>
 </svg>
