@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="277.14286"
-     inkscape:cy="1207.8571"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1365.7262"
+     inkscape:cy="605.08137"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -33,7 +33,7 @@
      units="px"
      inkscape:window-width="3832"
      inkscape:window-height="2042"
-     inkscape:window-x="0"
+     inkscape:window-x="3840"
      inkscape:window-y="114"
      inkscape:window-maximized="0"
      inkscape:snap-text-baseline="true"
@@ -335,20 +335,14 @@
          style="stroke-width:0.746564"
          d="m 286.45222,129.73053 a 3.0758474,3.2475574 0 0 1 -3.07585,3.24756 3.0758474,3.2475574 0 0 1 -3.07584,-3.24756 3.0758474,3.2475574 0 0 1 3.07584,-3.24756 3.0758474,3.2475574 0 0 1 3.07585,3.24756 z" />
     </g>
-    <g
-       aria-label="P    A"
-       transform="translate(-25.418963,23.866693)"
-       id="text53"
-       style="font-weight:600;font-size:148.167px;font-family:'IBM Plex Sans Thai Looped';-inkscape-font-specification:'IBM Plex Sans Thai Looped Semi-Bold';stroke-width:0.264583">
-      <path
-         d="M 152.2457,264.18225 V 160.76168 h 44.45011 q 14.3722,0 22.22505,8.44552 7.85285,8.44552 7.85285,22.66955 0,14.22403 -7.85285,22.66955 -7.85285,8.44552 -22.22505,8.44552 h -27.70723 v 41.19043 z m 16.74288,-55.85896 h 26.67006 q 6.37118,0 9.92719,-3.25967 3.55601,-3.40785 3.55601,-9.63086 v -7.11202 q 0,-6.22301 -3.55601,-9.48269 -3.55601,-3.40784 -9.92719,-3.40784 h -26.67006 z"
-         style="-inkscape-font-specification:'IBM Plex Sans Thai Looped Medium'"
-         id="path639" />
-      <path
-         d="m 422.97518,264.18225 -9.33452,-28.00356 h -38.67159 l -9.03819,28.00356 h -17.0392 l 35.26375,-103.42057 h 21.03971 l 35.26375,103.42057 z m -28.2999,-88.0112 h -0.74083 l -14.96487,45.63544 h 30.5224 z"
-         style="-inkscape-font-specification:'IBM Plex Sans Thai Looped Medium'"
-         id="path636" />
-    </g>
+    <path
+       d="M 130.69364,296.55863 V 179.91672 h 50.13261 q 16.20954,0 25.0663,9.5252 8.85676,9.5252 8.85676,25.56764 0,16.04244 -8.85676,25.56764 -8.85676,9.5252 -25.0663,9.5252 h -31.24932 v 46.45623 z m 18.88329,-63 h 30.07956 q 7.18567,0 11.19628,-3.67638 4.01061,-3.84351 4.01061,-10.86208 v -8.02122 q 0,-7.01857 -4.01061,-10.69497 -4.01061,-3.8435 -11.19628,-3.8435 h -30.07956 z"
+       style="font-weight:600;font-size:148.167px;font-family:'IBM Plex Sans Thai Looped';-inkscape-font-specification:'IBM Plex Sans Thai Looped Medium';stroke-width:0.298407"
+       id="path639" />
+    <path
+       d="m 409.49881,296.55863 -10.52785,-31.58354 h -43.61537 l -10.19363,31.58354 h -19.21749 l 39.77187,-116.64191 h 23.72943 l 39.77186,116.64191 z m -31.91776,-99.2626 h -0.83554 l -16.87798,51.4695 h 34.42438 z"
+       style="font-weight:600;font-size:148.167px;font-family:'IBM Plex Sans Thai Looped';-inkscape-font-specification:'IBM Plex Sans Thai Looped Medium';stroke-width:0.298407"
+       id="path636" />
     <g
        aria-label="Kohorte SoSe2020"
        id="text80"
